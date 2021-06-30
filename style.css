@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#content {
+  padding: 40px;
+}
+
+#file {
+  top: 10px;
+  left: 10px;
+  margin-bottom: 60px;
+}
+
+#audio {
+  left: 0;
+  top: 50px;
+  width: calc(100% - 20px);
+}
+
+#wave {
+  margin-top: 150px;
+}
